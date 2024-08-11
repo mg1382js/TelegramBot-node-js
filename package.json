@@ -1,0 +1,25 @@
+{
+  "name": "@mahdi.golzar/telegrambot",
+  "version": "1.0.0",
+  "description": "telegram bot create telegramBot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "create",
+    "telegramBot"
+  ],
+  "author": "mahdi.golzar",
+  "license": "ISC",
+  "dependencies": {
+    "i18n": "^0.15.1",
+    "ioredis": "^5.4.1",
+    "mongoose": "^8.5.2",
+    "mysql2": "^3.11.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "pg": "^8.12.0"
+  }
+}
